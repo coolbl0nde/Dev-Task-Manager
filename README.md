@@ -104,6 +104,4 @@
 * Sprint к Task (One-to-Many): Спринт может включать множество задач.
 * User к Timesheet/Worklog (One-to-Many): Пользователь может иметь множество записей учета времени, но каждая запись учета времени связана с одной задачей.
 
-
-![bd drawio (1)](https://github.com/coolbl0nde/Dev-Task-Manager/assets/93661159/83164fa0-fb53-4187-a322-b0e361b9edbd)
-
+![msg781028808-773094](https://github.com/coolbl0nde/Dev-Task-Manager/assets/93661159/b54ae90b-6ec2-42ca-bc10-4bb8e2217b6a)
